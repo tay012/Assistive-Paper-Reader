@@ -1,4 +1,4 @@
-# 📬 Angel's Mail Reader (Capstone Project - CPSC 498)
+# 📬 Angel's Mail Reader (Capstone Project)
 
 A Raspberry Pi–based assistive device that allows visually impaired users (like Ray's mom!) to place a document under a camera, press a button, and hear the content read aloud using OCR and text-to-speech.
 
